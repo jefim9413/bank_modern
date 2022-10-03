@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img alt="podcastr" title="podcastr" src=".github/logo.png" />
+</h1>
+
+
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
